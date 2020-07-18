@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #670c15;
+  background-color: #82452c;
 }
 
 .overlay-mf {
@@ -326,7 +326,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #670c15;
+  background: #203a34;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -1155,13 +1155,13 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #670c15;
+  background-color: #345e54;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
-  background-color: #670c15;
+  background-color: #203a34;
   color: #fff;
   border-color: #cde1f8;
 }
